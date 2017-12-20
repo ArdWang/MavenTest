@@ -386,7 +386,4 @@ public class AlarmFragment extends BaseFragment{
 
         return true;
     }
-
-
-
 }
